@@ -16,5 +16,3 @@ This is a new line in the README file!
 This is a new feature
 
 another new feature
-
-another commit
